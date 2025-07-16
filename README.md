@@ -2,6 +2,8 @@
 
 Configured project for Meta Quest 3 Mixed Reality Applications
 
+(for the best team ever)
+
 # Quick Start
 
 - Clone the project to your computer
